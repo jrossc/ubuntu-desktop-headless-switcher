@@ -88,13 +88,3 @@ Revert mode cleanly restores:
 - Disables TLP
 
 Powertop changes are runtime-only and reset automatically after reboot.
-
----
-
-## 🚀 Usage
-
-```bash
-git clone https://github.com/yourusername/ubuntu-power-mode-manager.git
-cd ubuntu-power-mode-manager
-chmod +x power-manager.sh
-sudo ./power-manager.sh
